@@ -1,3 +1,3 @@
 console.log("harry")
 console.log("kalyan")
-console.log("kaqwegi")
+console.log("kaqwe")
